@@ -1,6 +1,5 @@
 # TP-MDI-Docker
 
-# TP final du module MDI
 ****Auteurs****
 
  **Oumar BALLO**
